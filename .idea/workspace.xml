@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="417e494c-ec70-4ef3-a30b-bad6129cc359" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/agrawalsuneet/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/agrawalsuneet/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agrawalsuneet/opensourcecontribution/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/agrawalsuneet/opensourcecontribution/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agrawalsuneet/personalgamesandapps/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/agrawalsuneet/personalgamesandapps/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/agrawalsuneet/publicappearances/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/agrawalsuneet/publicappearances/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/opensourcecontribution/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/opensourcecontribution/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personalgamesandapps/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/personalgamesandapps/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publicappearances/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publicappearances/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,5 +35,11 @@
       <updated>1588444997929</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="407" y="135" width="618" height="522" key="find.popup" timestamp="1592121520704">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="407" y="135" width="618" height="522" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1592121520704" />
   </component>
 </project>
